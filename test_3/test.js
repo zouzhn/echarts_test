@@ -167,18 +167,16 @@
 			var btn = document.getElementById("btn");
 			btn.addEventListener('click', function() {
 				var op = myChart.getOption();
-				//op.series[1].effect.color = 'blue';
-				//op.series[2].effect.show = false; //隐藏第二个点
 				myChart.setOption(op); //立即生效
 				var acceleration = 0.5; //车辆加速度
-				var speed = parseInt(op.series[1].effect.constantSpeed);
+				var speed = parseInt(op.series[2].effect.constantSpeed);
 				function setOption() {
 					speed -= acceleration;
 					if(speed > 0) {
-						op.series[1].effect.constantSpeed = speed; //若为负数，则移动速度非常快
+						op.series[2].effect.constantSpeed = speed; //若为负数，则移动速度非常快
 						myChart.setOption(op); //立即生效
 					} else {
-						op.series[1].effect.constantSpeed = 0.000000001;
+						op.series[2].effect.constantSpeed = 0.000000001;
 						myChart.setOption(op);
 						clearInterval(speedId); //终止定时函数
 					}
