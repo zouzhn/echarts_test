@@ -1,0 +1,1064 @@
+[
+  [
+    {
+      "railLineName": "轨道交通10号线(鲤鱼池-王家庄)",
+      "startTime": "06:30",
+      "endTime": "22:30",
+      "company": "重庆市轨道交通(集团)有限公司",
+      "railStationsNum": 19
+    },
+    {
+      "railStationName": "鲤鱼池",
+      "railStationGPS": [
+        106.556573,
+        29.580233
+      ]
+    },
+    {
+      "railStationName": "红土地",
+      "railStationGPS": [
+        106.557069,
+        29.590494
+      ]
+    },
+    {
+      "railStationName": "龙头寺公园",
+      "railStationGPS": [
+        106.557204,
+        29.604914
+      ]
+    },
+    {
+      "railStationName": "重庆北站南广场",
+      "railStationGPS": [
+        106.557373,
+        29.612993
+      ]
+    },
+    {
+      "railStationName": "重庆北站北广场",
+      "railStationGPS": [
+        106.557996,
+        29.618794
+      ]
+    },
+    {
+      "railStationName": "民心佳园",
+      "railStationGPS": [
+        106.57366,
+        29.632823
+      ]
+    },
+    {
+      "railStationName": "三亚湾",
+      "railStationGPS": [
+        106.59106,
+        29.644291
+      ]
+    },
+    {
+      "railStationName": "上湾路",
+      "railStationGPS": [
+        106.615477,
+        29.655676
+      ]
+    },
+    {
+      "railStationName": "环山公园",
+      "railStationGPS": [
+        106.628728,
+        29.664539
+      ]
+    },
+    {
+      "railStationName": "长河",
+      "railStationGPS": [
+        106.636185,
+        29.679941
+      ]
+    },
+    {
+      "railStationName": "江北机场T3航站楼",
+      "railStationGPS": [
+        106.661973,
+        29.714283
+      ]
+    },
+    {
+      "railStationName": "江北机场T2航站楼",
+      "railStationGPS": [
+        106.643388,
+        29.722713
+      ]
+    },
+    {
+      "railStationName": "渝北广场",
+      "railStationGPS": [
+        106.636754,
+        29.724571
+      ]
+    },
+    {
+      "railStationName": "鹿山",
+      "railStationGPS": [
+        106.614905,
+        29.726226
+      ]
+    },
+    {
+      "railStationName": "中央公园东",
+      "railStationGPS": [
+        106.598087,
+        29.729651
+      ]
+    },
+    {
+      "railStationName": "中央公园",
+      "railStationGPS": [
+        106.589844,
+        29.729785
+      ]
+    },
+    {
+      "railStationName": "中央公园西",
+      "railStationGPS": [
+        106.578782,
+        29.729969
+      ]
+    },
+    {
+      "railStationName": "悦来",
+      "railStationGPS": [
+        106.554435,
+        29.731955
+      ]
+    },
+    {
+      "railStationName": "王家庄",
+      "railStationGPS": [
+        106.55217,
+        29.750344
+      ]
+    }
+  ],
+  [
+    {
+      "railLineName": "轨道交通1号线(小什字-尖顶坡)",
+      "startTime": "06:30",
+      "endTime": "22:30",
+      "company": "重庆市轨道交通(集团)有限公司",
+      "railStationsNum": 23
+    },
+    {
+      "railStationName": "小什字",
+      "railStationGPS": [
+        106.589557,
+        29.565303
+      ]
+    },
+    {
+      "railStationName": "较场口",
+      "railStationGPS": [
+        106.578346,
+        29.559505
+      ]
+    },
+    {
+      "railStationName": "七星岗",
+      "railStationGPS": [
+        106.569869,
+        29.561247
+      ]
+    },
+    {
+      "railStationName": "两路口",
+      "railStationGPS": [
+        106.555194,
+        29.558863
+      ]
+    },
+    {
+      "railStationName": "鹅岭",
+      "railStationGPS": [
+        106.540406,
+        29.554006
+      ]
+    },
+    {
+      "railStationName": "大坪",
+      "railStationGPS": [
+        106.525858,
+        29.546268
+      ]
+    },
+    {
+      "railStationName": "石油路",
+      "railStationGPS": [
+        106.515073,
+        29.5439
+      ]
+    },
+    {
+      "railStationName": "歇台子",
+      "railStationGPS": [
+        106.504851,
+        29.541236
+      ]
+    },
+    {
+      "railStationName": "石桥铺",
+      "railStationGPS": [
+        106.491476,
+        29.538544
+      ]
+    },
+    {
+      "railStationName": "高庙村",
+      "railStationGPS": [
+        106.475851,
+        29.542392
+      ]
+    },
+    {
+      "railStationName": "马家岩",
+      "railStationGPS": [
+        106.474896,
+        29.551196
+      ]
+    },
+    {
+      "railStationName": "小龙坎",
+      "railStationGPS": [
+        106.474979,
+        29.559622
+      ]
+    },
+    {
+      "railStationName": "沙坪坝",
+      "railStationGPS": [
+        106.466817,
+        29.562661
+      ]
+    },
+    {
+      "railStationName": "杨公桥",
+      "railStationGPS": [
+        106.456883,
+        29.567999
+      ]
+    },
+    {
+      "railStationName": "烈士墓",
+      "railStationGPS": [
+        106.451908,
+        29.573895
+      ]
+    },
+    {
+      "railStationName": "磁器口",
+      "railStationGPS": [
+        106.452879,
+        29.583095
+      ]
+    },
+    {
+      "railStationName": "石井坡",
+      "railStationGPS": [
+        106.450683,
+        29.595712
+      ]
+    },
+    {
+      "railStationName": "双碑",
+      "railStationGPS": [
+        106.450808,
+        29.611946
+      ]
+    },
+    {
+      "railStationName": "赖家桥",
+      "railStationGPS": [
+        106.388127,
+        29.615991
+      ]
+    },
+    {
+      "railStationName": "微电园",
+      "railStationGPS": [
+        106.369701,
+        29.615577
+      ]
+    },
+    {
+      "railStationName": "陈家桥",
+      "railStationGPS": [
+        106.334948,
+        29.61377
+      ]
+    },
+    {
+      "railStationName": "大学城",
+      "railStationGPS": [
+        106.315249,
+        29.613585
+      ]
+    },
+    {
+      "railStationName": "尖顶坡",
+      "railStationGPS": [
+        106.299527,
+        29.613362
+      ]
+    }
+  ],
+  [
+    {
+      "railLineName": "轨道交通2号线(较场口-鱼洞)",
+      "startTime": "06:30",
+      "endTime": "22:30",
+      "company": "重庆市轨道交通(集团)有限公司",
+      "railStationsNum": 25
+    },
+    {
+      "railStationName": "较场口",
+      "railStationGPS": [
+        106.580508,
+        29.559557
+      ]
+    },
+    {
+      "railStationName": "临江门",
+      "railStationGPS": [
+        106.581941,
+        29.564158
+      ]
+    },
+    {
+      "railStationName": "黄花园",
+      "railStationGPS": [
+        106.571595,
+        29.569567
+      ]
+    },
+    {
+      "railStationName": "大溪沟",
+      "railStationGPS": [
+        106.565021,
+        29.572422
+      ]
+    },
+    {
+      "railStationName": "曾家岩",
+      "railStationGPS": [
+        106.55619,
+        29.572738
+      ]
+    },
+    {
+      "railStationName": "牛角沱",
+      "railStationGPS": [
+        106.54922,
+        29.567044
+      ]
+    },
+    {
+      "railStationName": "李子坝",
+      "railStationGPS": [
+        106.54419,
+        29.558954
+      ]
+    },
+    {
+      "railStationName": "佛图关",
+      "railStationGPS": [
+        106.537896,
+        29.555334
+      ]
+    },
+    {
+      "railStationName": "大坪",
+      "railStationGPS": [
+        106.5256,
+        29.547591
+      ]
+    },
+    {
+      "railStationName": "袁家岗",
+      "railStationGPS": [
+        106.520419,
+        29.534975
+      ]
+    },
+    {
+      "railStationName": "谢家湾",
+      "railStationGPS": [
+        106.52407,
+        29.524954
+      ]
+    },
+    {
+      "railStationName": "杨家坪",
+      "railStationGPS": [
+        106.520438,
+        29.513557
+      ]
+    },
+    {
+      "railStationName": "动物园",
+      "railStationGPS": [
+        106.515836,
+        29.505802
+      ]
+    },
+    {
+      "railStationName": "大堰村",
+      "railStationGPS": [
+        106.505525,
+        29.505403
+      ]
+    },
+    {
+      "railStationName": "马王场",
+      "railStationGPS": [
+        106.495313,
+        29.501844
+      ]
+    },
+    {
+      "railStationName": "平安",
+      "railStationGPS": [
+        106.491447,
+        29.494535
+      ]
+    },
+    {
+      "railStationName": "大渡口",
+      "railStationGPS": [
+        106.484692,
+        29.487506
+      ]
+    },
+    {
+      "railStationName": "新山村",
+      "railStationGPS": [
+        106.482676,
+        29.4778
+      ]
+    },
+    {
+      "railStationName": "天堂堡",
+      "railStationGPS": [
+        106.478757,
+        29.472981
+      ]
+    },
+    {
+      "railStationName": "建桥",
+      "railStationGPS": [
+        106.481274,
+        29.455739
+      ]
+    },
+    {
+      "railStationName": "金家湾",
+      "railStationGPS": [
+        106.482024,
+        29.444056
+      ]
+    },
+    {
+      "railStationName": "刘家坝",
+      "railStationGPS": [
+        106.48917,
+        29.433505
+      ]
+    },
+    {
+      "railStationName": "白居寺",
+      "railStationGPS": [
+        106.498508,
+        29.42043
+      ]
+    },
+    {
+      "railStationName": "大江",
+      "railStationGPS": [
+        106.507644,
+        29.389969
+      ]
+    },
+    {
+      "railStationName": "鱼洞",
+      "railStationGPS": [
+        106.512695,
+        29.381705
+      ]
+    }
+  ],
+  [
+    {
+      "railLineName": "轨道交通3号线(鱼洞-江北机场t2航站楼)",
+      "startTime": "06:30",
+      "endTime": "22:30",
+      "company": "重庆市轨道交通(集团)有限公司",
+      "railStationsNum": 39
+    },
+    {
+      "railStationName": "鱼洞",
+      "railStationGPS": [
+        106.512695,
+        29.381705
+      ]
+    },
+    {
+      "railStationName": "金竹",
+      "railStationGPS": [
+        106.530385,
+        29.381501
+      ]
+    },
+    {
+      "railStationName": "鱼胡路",
+      "railStationGPS": [
+        106.545579,
+        29.38378
+      ]
+    },
+    {
+      "railStationName": "学堂湾",
+      "railStationGPS": [
+        106.549509,
+        29.404007
+      ]
+    },
+    {
+      "railStationName": "大山村",
+      "railStationGPS": [
+        106.550117,
+        29.419115
+      ]
+    },
+    {
+      "railStationName": "花溪",
+      "railStationGPS": [
+        106.556689,
+        29.438522
+      ]
+    },
+    {
+      "railStationName": "岔路口",
+      "railStationGPS": [
+        106.560929,
+        29.454796
+      ]
+    },
+    {
+      "railStationName": "九公里",
+      "railStationGPS": [
+        106.565517,
+        29.464895
+      ]
+    },
+    {
+      "railStationName": "麒龙",
+      "railStationGPS": [
+        106.569065,
+        29.473188
+      ]
+    },
+    {
+      "railStationName": "八公里",
+      "railStationGPS": [
+        106.572354,
+        29.484513
+      ]
+    },
+    {
+      "railStationName": "二塘",
+      "railStationGPS": [
+        106.579277,
+        29.494926
+      ]
+    },
+    {
+      "railStationName": "六公里",
+      "railStationGPS": [
+        106.579759,
+        29.503999
+      ]
+    },
+    {
+      "railStationName": "五公里",
+      "railStationGPS": [
+        106.580273,
+        29.5136
+      ]
+    },
+    {
+      "railStationName": "四公里",
+      "railStationGPS": [
+        106.582569,
+        29.522636
+      ]
+    },
+    {
+      "railStationName": "南坪",
+      "railStationGPS": [
+        106.576278,
+        29.53232
+      ]
+    },
+    {
+      "railStationName": "工贸",
+      "railStationGPS": [
+        106.569313,
+        29.538027
+      ]
+    },
+    {
+      "railStationName": "铜元局",
+      "railStationGPS": [
+        106.557988,
+        29.542228
+      ]
+    },
+    {
+      "railStationName": "两路口",
+      "railStationGPS": [
+        106.555683,
+        29.558898
+      ]
+    },
+    {
+      "railStationName": "牛角沱",
+      "railStationGPS": [
+        106.549116,
+        29.565165
+      ]
+    },
+    {
+      "railStationName": "华新街",
+      "railStationGPS": [
+        106.543734,
+        29.570144
+      ]
+    },
+    {
+      "railStationName": "观音桥",
+      "railStationGPS": [
+        106.539578,
+        29.579105
+      ]
+    },
+    {
+      "railStationName": "红旗河沟",
+      "railStationGPS": [
+        106.53279,
+        29.59129
+      ]
+    },
+    {
+      "railStationName": "嘉州路",
+      "railStationGPS": [
+        106.528598,
+        29.601392
+      ]
+    },
+    {
+      "railStationName": "郑家院子",
+      "railStationGPS": [
+        106.536795,
+        29.605603
+      ]
+    },
+    {
+      "railStationName": "唐家院子",
+      "railStationGPS": [
+        106.547144,
+        29.605376
+      ]
+    },
+    {
+      "railStationName": "狮子坪",
+      "railStationGPS": [
+        106.555622,
+        29.607512
+      ]
+    },
+    {
+      "railStationName": "重庆北站南广场",
+      "railStationGPS": [
+        106.555687,
+        29.612946
+      ]
+    },
+    {
+      "railStationName": "龙头寺",
+      "railStationGPS": [
+        106.556103,
+        29.622918
+      ]
+    },
+    {
+      "railStationName": "童家院子",
+      "railStationGPS": [
+        106.561428,
+        29.6346
+      ]
+    },
+    {
+      "railStationName": "金渝",
+      "railStationGPS": [
+        106.577054,
+        29.641633
+      ]
+    },
+    {
+      "railStationName": "金童路",
+      "railStationGPS": [
+        106.574038,
+        29.649656
+      ]
+    },
+    {
+      "railStationName": "鸳鸯",
+      "railStationGPS": [
+        106.566651,
+        29.667462
+      ]
+    },
+    {
+      "railStationName": "园博园",
+      "railStationGPS": [
+        106.570132,
+        29.680962
+      ]
+    },
+    {
+      "railStationName": "翠云",
+      "railStationGPS": [
+        106.579151,
+        29.692174
+      ]
+    },
+    {
+      "railStationName": "长福路",
+      "railStationGPS": [
+        106.595252,
+        29.693665
+      ]
+    },
+    {
+      "railStationName": "回兴",
+      "railStationGPS": [
+        106.612551,
+        29.696265
+      ]
+    },
+    {
+      "railStationName": "双龙",
+      "railStationGPS": [
+        106.625483,
+        29.70365
+      ]
+    },
+    {
+      "railStationName": "碧津",
+      "railStationGPS": [
+        106.639182,
+        29.716784
+      ]
+    },
+    {
+      "railStationName": "江北机场T2航站楼",
+      "railStationGPS": [
+        106.644792,
+        29.724677
+      ]
+    }
+  ],
+  [
+    {
+      "railLineName": "轨道交通5号线(大石坝-园博中心)",
+      "startTime": "06:30",
+      "endTime": "22:30",
+      "company": "重庆市轨道交通(集团)有限公司",
+      "railStationsNum": 10
+    },
+    {
+      "railStationName": "大石坝",
+      "railStationGPS": [
+        106.501736,
+        29.576436
+      ]
+    },
+    {
+      "railStationName": "大龙山",
+      "railStationGPS": [
+        106.505281,
+        29.595647
+      ]
+    },
+    {
+      "railStationName": "冉家坝",
+      "railStationGPS": [
+        106.505556,
+        29.604262
+      ]
+    },
+    {
+      "railStationName": "幸福广场",
+      "railStationGPS": [
+        106.514788,
+        29.622701
+      ]
+    },
+    {
+      "railStationName": "人和",
+      "railStationGPS": [
+        106.528791,
+        29.629326
+      ]
+    },
+    {
+      "railStationName": "和睦路",
+      "railStationGPS": [
+        106.539679,
+        29.635465
+      ]
+    },
+    {
+      "railStationName": "重光",
+      "railStationGPS": [
+        106.536213,
+        29.654048
+      ]
+    },
+    {
+      "railStationName": "湖霞街",
+      "railStationGPS": [
+        106.545079,
+        29.665856
+      ]
+    },
+    {
+      "railStationName": "丹鹤",
+      "railStationGPS": [
+        106.557403,
+        29.673138
+      ]
+    },
+    {
+      "railStationName": "园博中心",
+      "railStationGPS": [
+        106.566971,
+        29.68158
+      ]
+    }
+  ],
+  [
+    {
+      "railLineName": "轨道交通6号线(北碚-茶园)",
+      "startTime": "06:30",
+      "endTime": "22:30",
+      "company": "重庆市轨道交通(集团)有限公司",
+      "railStationsNum": 28
+    },
+    {
+      "railStationName": "北碚",
+      "railStationGPS": [
+        106.444109,
+        29.831793
+      ]
+    },
+    {
+      "railStationName": "天生",
+      "railStationGPS": [
+        106.43027,
+        29.822666
+      ]
+    },
+    {
+      "railStationName": "状元碑",
+      "railStationGPS": [
+        106.405498,
+        29.80902
+      ]
+    },
+    {
+      "railStationName": "龙凤溪",
+      "railStationGPS": [
+        106.410485,
+        29.795454
+      ]
+    },
+    {
+      "railStationName": "向家岗",
+      "railStationGPS": [
+        106.479507,
+        29.745183
+      ]
+    },
+    {
+      "railStationName": "蔡家",
+      "railStationGPS": [
+        106.498731,
+        29.741856
+      ]
+    },
+    {
+      "railStationName": "曹家湾",
+      "railStationGPS": [
+        106.500848,
+        29.727226
+      ]
+    },
+    {
+      "railStationName": "金山寺",
+      "railStationGPS": [
+        106.498733,
+        29.685702
+      ]
+    },
+    {
+      "railStationName": "礼嘉",
+      "railStationGPS": [
+        106.495349,
+        29.673635
+      ]
+    },
+    {
+      "railStationName": "九曲河",
+      "railStationGPS": [
+        106.48937,
+        29.659765
+      ]
+    },
+    {
+      "railStationName": "康庄",
+      "railStationGPS": [
+        106.485461,
+        29.640872
+      ]
+    },
+    {
+      "railStationName": "大竹林",
+      "railStationGPS": [
+        106.484788,
+        29.634275
+      ]
+    },
+    {
+      "railStationName": "光电园",
+      "railStationGPS": [
+        106.505995,
+        29.621798
+      ]
+    },
+    {
+      "railStationName": "冉家坝",
+      "railStationGPS": [
+        106.505544,
+        29.603901
+      ]
+    },
+    {
+      "railStationName": "大龙山",
+      "railStationGPS": [
+        106.505217,
+        29.595646
+      ]
+    },
+    {
+      "railStationName": "花卉园",
+      "railStationGPS": [
+        106.519089,
+        29.588966
+      ]
+    },
+    {
+      "railStationName": "红旗河沟",
+      "railStationGPS": [
+        106.53279,
+        29.59129
+      ]
+    },
+    {
+      "railStationName": "黄泥塝",
+      "railStationGPS": [
+        106.54439,
+        29.594654
+      ]
+    },
+    {
+      "railStationName": "红土地",
+      "railStationGPS": [
+        106.557343,
+        29.590287
+      ]
+    },
+    {
+      "railStationName": "五里店",
+      "railStationGPS": [
+        106.571911,
+        29.591462
+      ]
+    },
+    {
+      "railStationName": "江北城",
+      "railStationGPS": [
+        106.578429,
+        29.582227
+      ]
+    },
+    {
+      "railStationName": "大剧院",
+      "railStationGPS": [
+        106.583412,
+        29.575759
+      ]
+    },
+    {
+      "railStationName": "小什字",
+      "railStationGPS": [
+        106.590212,
+        29.56618
+      ]
+    },
+    {
+      "railStationName": "上新街",
+      "railStationGPS": [
+        106.603606,
+        29.562046
+      ]
+    },
+    {
+      "railStationName": "刘家坪",
+      "railStationGPS": [
+        106.662096,
+        29.530721
+      ]
+    },
+    {
+      "railStationName": "长生桥",
+      "railStationGPS": [
+        106.664502,
+        29.517088
+      ]
+    },
+    {
+      "railStationName": "邱家湾",
+      "railStationGPS": [
+        106.656022,
+        29.503794
+      ]
+    },
+    {
+      "railStationName": "茶园",
+      "railStationGPS": [
+        106.649481,
+        29.493605
+      ]
+    }
+  ]
+]
